@@ -1,0 +1,22 @@
+@charset "utf-8";
+.container header {
+    background-color: #16CAE8;
+}
+.container #hero {
+    background-image: url(images/d4251281.jpg);
+
+
+}
+
+.container #about .text_column {
+    font-size: x-large;
+    font-style: inherit;
+    font-weight: bolder;
+}
+
+.container header nav {
+    background-color: #07D0E1;
+}
+.container #contact {
+    background-color: #0B7EE8;
+}
